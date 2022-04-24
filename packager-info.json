@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": null,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://fv-iit.anonymous.lager.exp.direct",
+  "packagerNgrokUrl": "https://fv-iit.anonymous.lager.exp.direct",
+  "ngrokPid": 26248,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
